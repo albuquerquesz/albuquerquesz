@@ -6,7 +6,7 @@ Graduated in **Internet Systems Technology** from *Unipê* (João Pessoa, Brazil
 I am a developer focused on building robust and scalable solutions, currently Open-Source Administrator and contributer at [@AbacatePay](https://github.com/AbacatePay). 
 And founder of [@serenitysz](https://github.com/serenitysz), a linter focused on code quality and consistency.
 
-[About me](https://links.albuquerquesz.com.br)
+[About me](https://albuquerquesz.com.br/links)
 
 ### Technical Expertise
 
