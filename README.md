@@ -3,8 +3,7 @@
 ### Back-end Developer
 Graduated in **Internet Systems Technology** from *Unipê* (João Pessoa, Brazil).
 
-I am a developer focused on building robust and scalable solutions, currently Open-Source Administrator and contributer at [@AbacatePay](https://github.com/AbacatePay). 
-And founder of [@serenitysz](https://github.com/serenitysz), a linter focused on code quality and consistency.
+I am a developer focused on building robust and scalable solutions, currently Open-Source Administrator and contributer at [@AbacatePay](https://github.com/AbacatePay).
 
 [About me](https://links.albuquerquesz.com.br)
 
@@ -24,5 +23,3 @@ Focused on the Node.js ecosystem and high-performance solutions.
 - [clubidulivro](https://github.com/albuquerquesz/clubidulivro) - Platform for organizing and tracking book club reading.
 - [gitscribe](https://github.com/albuquerquesz/gitscribe) - AI-powered Git commits and terminal automation.
 - [goascii](https://github.com/albuquerquesz/goascii) - Go tool for rendering text as ASCII art.
-- [Serenity Linter](https://github.com/serenitysz/serenity) - An agressive and comprehensive Golang linter for your workflow.
-- [Serenity Docs](https://github.com/serenitysz/docs) - Official documentation repository for Serenity.
