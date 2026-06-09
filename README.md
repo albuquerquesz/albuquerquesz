@@ -7,5 +7,5 @@ Before that, I built Rewrite Today, an SMS and OTP platform created to make mess
 I graduated in **Internet Systems Technology** from *Unipe* and spend most of my time working across the Node.js ecosystem, backend architecture, developer tooling, and cloud infrastructure.
 
 My main stack includes TypeScript and Go, with experience in SQL and NoSQL
-databases, Redis, Firebase, Supabase, Docker, AWS, Fastify, Elysia.js, and
-GitHub Actions. Check out my [Portfolio](https://albuquerquesz.com.br/links) to know more about me.
+databases, Redis, Firebase, Supabase, Docker, AWS, Apache Kafka, RabbitMQ,
+Fastify, and Elysia.js. Check out my [Portfolio](https://albuquerquesz.com.br/links) to know more about me.
