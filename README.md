@@ -1,6 +1,5 @@
 ### Hi, there!
 
-### Back-end Developer
 Graduated in **Internet Systems Technology** from *Unipê* (João Pessoa, Brazil).
 
 I am a developer focused on building robust and scalable solutions, currently Open-Source Administrator and contributer at [@AbacatePay](https://github.com/AbacatePay).
