@@ -1,16 +1,11 @@
 ### Hi, there!
 
+I am a software developer from Joao Pessoa, Brazil, focused on building robust, scalable, and high-performance solutions.
 
-I'm a developer focused on building robust and scalable solutions, currently Open-Source Administrator and contributer at [@AbacatePay](https://github.com/AbacatePay).
+I currently work as an Open Source Administrator and contributor at [@AbacatePay](https://github.com/AbacatePay), where I help maintain tools, improve developer workflows, and support open-source initiatives.
 
-Graduated in **Internet Systems Technology** from *Unipê* (João Pessoa, Brazil).
+I graduated in **Internet Systems Technology** from *Unipe* and spend most of my time working across the Node.js ecosystem, backend architecture, developer tooling, and cloud infrastructure.
+
+My main stack includes TypeScript and Go, with experience in SQL and NoSQL databases, Redis, Firebase, Supabase, Docker, AWS, Fastify, Elysia.js, and GitHub Actions.
 
 [Portfolio](https://albuquerquesz.com.br/links)
-
-### Technical Expertise
-
-Focused on the Node.js ecosystem and high-performance solutions.
-
-* **Languages:** TypeScript, Golang.
-* **Storage:** SQL & NoSQL, Redis, Firebase, Supabase.
-* **Tools & Infra:** Fastify, Elysia.js, Docker, and AWS, Github Actions.
