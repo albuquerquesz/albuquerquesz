@@ -1,6 +1,6 @@
 ### Hi, there!
 
-I am a software developer based in Joao Pessoa, Brazil, focused on building robust, scalable, and high-performance solutions.
+I am a Software Engineer based in Joao Pessoa, Brazil. Focused on building robust, scalable, and high-performance solutions.
 
 I currently work at RepareCar, a platform that helps auto repair shops organize their operations, increase efficiency, and make better business decisions.
 
@@ -8,6 +8,7 @@ At [@AbacatePay](https://github.com/AbacatePay), I worked as an open-source engi
 
 I graduated in **Internet Systems Technology** from *Unipe* and spend most of my time working across the Node.js ecosystem, backend architecture, developer tooling, and cloud infrastructure.
 
-My main stack includes TypeScript and Go, with experience in SQL and NoSQL databases, Redis, Firebase, Supabase, Docker, AWS, Fastify, Elysia.js, and GitHub Actions.
+My main stack includes TypeScript and Go, with experience in SQL and NoSQL
+databases, Redis, Firebase, Supabase, Docker, AWS, Fastify, Elysia.js, and
+GitHub Actions. Check out my [Portfolio](https://albuquerquesz.com.br/links) to know more about me.
 
-[Portfolio](https://albuquerquesz.com.br/links)
